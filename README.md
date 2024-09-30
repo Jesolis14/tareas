@@ -1,3 +1,3 @@
 # tareas
 
-Repositorio para guardar todass mis tareas hechas en la maestria
+Repositorio para guardar todas mis tareas hechas en la maestria
